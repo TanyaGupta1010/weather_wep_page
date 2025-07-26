@@ -1,9 +1,8 @@
-# 🌦️ PRODIGY_WD_05 - Weather App
+# 🌦️Weather App
 
 ## 📌 Task Description:
-This project is part of my Web Development Internship at **Prodigy InfoTech**.
 
-**Task 05** involves building a responsive **Weather App** that fetches live weather data using a weather API based on the user's input or location.
+**Task ** involves building a responsive **Weather App** that fetches live weather data using a weather API based on the user's input or location.
 
 ---
 
@@ -24,12 +23,6 @@ This project is part of my Web Development Internship at **Prodigy InfoTech**.
   - 💨 Wind speed
 - Simple and intuitive UI
 - Error handling for invalid input or failed requests
-
----
-
-## 🖼️ Preview:
-
-![Weather App Screenshot](screenshot.png)
 
 ---
 
